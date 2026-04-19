@@ -79,7 +79,6 @@ Quantum_Advisor/
 ├── templates/
 ├── screenshots/
 └── README.md
-
 ---
 
 ## ⚙️ Installation & Setup
